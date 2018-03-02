@@ -1,13 +1,4 @@
 adding changes to the file.
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
 changes after review.
-=======
->>>>>>> 80d97e9... New changes
-=======
 
-
-changes after review.
->>>>>>> 178d451... Pull Request changes
+Pull request change
